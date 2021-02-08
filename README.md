@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Chienyu-1215's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chienyu-1215)](https://github-readme-stats.vercel.app/api?username=Chienyu-1215&theme=vue)  
+# README
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chienyu-1215&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chienyu-1215&theme=vue)
 <!--
