@@ -1,5 +1,5 @@
 # README
-![Github stats](https://github-readme-stats.vercel.app/api?username=Chienyu-1215&theme=vue-dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chienyu-1215&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chienyu-1215&theme=vue)
 <!--
